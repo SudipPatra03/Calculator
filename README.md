@@ -7,10 +7,9 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ## 🚀 Features
 
-- ✅ Perform basic mathematical operations: `+`, `-`, `×`, `÷`
+- ✅ Perform basic mathematical operations: `+`, `-`, `×`, `÷`, `%`
 - ✅ Clear and backspace functionality  
-- ✅ Responsive design for desktop and mobile  
-- ✅ Keyboard input support (optional if implemented)
+- ✅ Keyboard input support.
 - ✅ Error handling for invalid expressions or division by zero
 
 ---
